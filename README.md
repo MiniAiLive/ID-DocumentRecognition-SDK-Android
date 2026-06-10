@@ -16,9 +16,7 @@ Try it out today!
 > - 10,000+ document templates covering IDs issued in 200+ countries and territories.<br>
 > - Support of 100+ languages and special characters via sophisticated neural networks.<br>
 
-## How to setup
-1. You need to download library file from here. [Google Driver](https://drive.google.com/file/d/1Ia3VOdDORlm9PCceBG6i1g0yAutFqzwh/view?usp=sharing)
-2. Place libminiai_IDSDK.aar file to the app/libs/. And build and run on your Android device.
+## Download Latest SDK from [Here](https://drive.google.com/drive/folders/1TEhNg2QIfLHg-svYq2eFd04nY4cnE2_O?usp=drive_link)
 
 ## Request trial Key
 Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get a trial License.
